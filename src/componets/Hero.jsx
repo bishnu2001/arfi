@@ -41,10 +41,10 @@ const Hero = () => {
 
       {/* Centered Content */}
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white bg-black bg-opacity-50 px-4 md:px-8 lg:px-12 xl:px-16">
-        <span className="text-[32px] lg:text-[60px] md:text-[42px] font-bold leading-[37.44px] lg:leading-[60px] md:leading-[46.2px] mt-16 lg:mt-36 h-28 lg:h-1">
+        <span className="text-[32px] lg:text-[72px] md:text-[42px] lg:mb-7 font-bold leading-[37.44px] lg:leading-[66px] md:leading-[46.2px] mt-16 lg:mt-24 h-28 lg:h-11">
           Fractionalize the Blue-chip Fine Arts for Everyone
         </span>
-        <span className="text-white-79 text-[13px] lg:text-[32px] md:text-[24px] leading-[20.72px] lg:leading-[41.6px] md:leading-[31.2px] font-normal w-[100%] md:w-[86%] lg:w-[81%] mb-6 mt-[12px] md:mt-[12px] lg:mt-[200px]">
+        <span className="text-white-79 text-[13px] lg:text-[32px] md:text-[24px] leading-[20.72px] lg:leading-[41.6px] md:leading-[31.2px] font-normal w-[100%] md:w-[86%] lg:w-[81%] mb-6 mt-[12px] md:mt-[12px] lg:mt-[92px]">
         {/* <span className="text-[20px] w-[70%] leading-[26.6px] md:leading-[23.6px] font-thin mb-6"> */}
           Amalgamation of Fine Art legacy and Blockchain Technology! A
           fractionalisation trading protocol for blue-chip fine arts.
