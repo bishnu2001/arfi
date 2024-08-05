@@ -29,6 +29,7 @@ const Hero = () => {
           Fractionalize the Blue-chip Fine Arts for Everyone
         </span>
         <span className="text-xl leading-[41.6px] font-thin mb-6">
+        {/* <span className="text-[20px] w-[70%] leading-[26.6px] md:leading-[23.6px] font-thin mb-6"> */}
           Amalgamation of Fine Art legacy and Blockchain Technology! A
           fractionalisation trading protocol for blue-chip fine arts.
         </span>
