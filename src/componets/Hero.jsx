@@ -37,7 +37,7 @@ const Hero = () => {
             CLAIM UNITY 1
           </button>
           <button className="bg-transparent border border-white text-white font-bold py-2 px-4 rounded-full w-[200px]">
-            <a href="https://openai.com/chatgpt/" target="_main">ARTFI TOKEN</a>
+            <a href="https://artfitoken.io/" target="_main">ARTFI TOKEN</a>
           </button>
         </div>
       </div>
