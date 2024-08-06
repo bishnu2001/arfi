@@ -41,7 +41,7 @@ const Hero = () => {
 
       {/* Centered Content */}
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white bg-black bg-opacity-50 px-4 md:px-8 lg:px-12 xl:px-16">
-        <span className="text-[32px] lg:text-[72px] md:text-[42px] lg:mb-7 font-bold leading-[37.44px] lg:leading-[66px] md:leading-[46.2px] mt-16 lg:mt-24 h-28 lg:h-11">
+        <span className="text-[32px] lg:text-[61px] md:text-[42px] lg:mb-7 font-bold leading-[37.44px] lg:leading-[66px] md:leading-[46.2px] mt-16 lg:mt-17 h-28 lg:h-11">
           Fractionalize the Blue-chip Fine Arts for Everyone
         </span>
         <span className="text-white-79 text-[13px] lg:text-[32px] md:text-[24px] leading-[20.72px] lg:leading-[41.6px] md:leading-[31.2px] font-normal w-[100%] md:w-[86%] lg:w-[81%] mb-6 mt-[12px] md:mt-[12px] lg:mt-[92px]">
@@ -49,11 +49,11 @@ const Hero = () => {
           Amalgamation of Fine Art legacy and Blockchain Technology! A
           fractionalisation trading protocol for blue-chip fine arts.
         </span>
-        <div className="flex flex-col md:flex-col md:gap-[20px] lg:flex-row lg:space-x-4 space-y-4 sm:space-y-0 items-center justify-center text-white mt-[10px] md:mt-[6px] lg:mt-[70px]">
-          <button className="bg-gradient-unity text-[12px] md:text-[18px] lg:text-[22px] font-bold py-3 px-4 lg:px-6 rounded-full w-[208px] md:w-[312px] lg:w-[320px] h-[42px] md:h-[58px] lg:h-[68px]">
+        <div className="flex flex-col md:flex-col md:gap-[20px] lg:flex-row lg:space-x-4 space-y-4 sm:space-y-0 items-center lg:gap-2 justify-center text-white mt-[10px] md:mt-[6px] lg:mt-[70px]">
+          <button className="bg-gradient-unity text-[12px] md:text-[18px] lg:text-[18px] font-bold py-3 px-4 lg:px-6 rounded-full w-[188px] md:w-[234px] lg:w-[230px] h-[42px] md:h-[58px] lg:h-[56px]">
             CLAIM UNITY 1
           </button>
-          <button className="bg-transparent text-[12px] lg:text-[22px] md:text-[18px] border border-white font-bold py-3 px-4 lg:px-6 rounded-full w-[208px] md:w-[312px] lg:w-[320px] h-[42px] md:h-[58px] lg:h-[68px]">
+          <button className="bg-transparent text-[12px] lg:text-[18px] md:text-[18px] border border-white font-bold py-3 px-4 lg:px-6 rounded-full w-[188px] md:w-[234px] lg:w-[230px] h-[42px] md:h-[58px] lg:h-[56px]">
             <a href="https://artfitoken.io/" target="_main">ARTFI TOKEN</a>
           </button>
         </div>
