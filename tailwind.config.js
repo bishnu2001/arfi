@@ -12,6 +12,9 @@ export default {
       colors: {
         'white-79': 'rgba(255, 255, 255, 0.79)',
       },
+      screens: {
+        '3xl': '1920px',
+      },
     },
   },
   plugins: [],
