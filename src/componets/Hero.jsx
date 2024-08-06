@@ -50,10 +50,10 @@ const Hero = () => {
           fractionalisation trading protocol for blue-chip fine arts.
         </span>
         <div className="flex flex-col md:flex-col md:gap-[20px] lg:flex-row lg:space-x-4 space-y-4 sm:space-y-0 items-center justify-center text-white mt-[10px] md:mt-[6px] lg:mt-[70px]">
-          <button className="bg-gradient-unity text-[12px] md:text-[20px] lg:text-[26px] font-bold py-3 px-4 lg:px-6 rounded-full w-[208px] md:w-[352px] lg:w-[364px] h-[56px] md:h-[64px] lg:h-[76px]">
+          <button className="bg-gradient-unity text-[12px] md:text-[18px] lg:text-[22px] font-bold py-3 px-4 lg:px-6 rounded-full w-[208px] md:w-[312px] lg:w-[320px] h-[42px] md:h-[58px] lg:h-[68px]">
             CLAIM UNITY 1
           </button>
-          <button className="bg-transparent text-[18px] lg:text-[26px] md:text-[20px] border border-white font-bold py-3 px-4 lg:px-6 rounded-full w-[208px] md:w-[352px] lg:w-[364px] h-[56px] md:h-[64px] lg:h-[76px]">
+          <button className="bg-transparent text-[12px] lg:text-[22px] md:text-[18px] border border-white font-bold py-3 px-4 lg:px-6 rounded-full w-[208px] md:w-[312px] lg:w-[320px] h-[42px] md:h-[58px] lg:h-[68px]">
             <a href="https://artfitoken.io/" target="_main">ARTFI TOKEN</a>
           </button>
         </div>
